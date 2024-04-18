@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.title('Titanic App')
-st.header('Titanic Graphs-App')
+st.header('Titanic Graphs')
 st.write('Graficas del dataset titanic')
 
 
