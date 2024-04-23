@@ -5,6 +5,7 @@ import streamlit as st
 import numpy as np
 
 st.title('Titanic App')
+st.header('Daniela Nava Noguez')
 st.header('Titanic Graphs')
 st.write('Graficas del dataset titanic')
 
